@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-// "Part1: 基类HealthProfessional";
+// "Part1:基类HealthProfessional";
 class HealthProfessional {
     int id;
     String name;
